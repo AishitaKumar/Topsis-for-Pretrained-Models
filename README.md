@@ -109,9 +109,8 @@ This command generated the final TOPSIS scores and rankings.
 
 The result file contains two additional columns:
 
-Topsis Score
-
-Rank
+- Topsis Score
+- Rank
 
 Higher TOPSIS score indicates better overall performance relative to the ideal solution.
 
@@ -121,9 +120,8 @@ Higher TOPSIS score indicates better overall performance relative to the ideal s
 
 To support the decision visually, multiple graphs were generated, including:
 
-TOPSIS score comparison bar graph
-
-Criteria-wise performance graphs
+- TOPSIS score comparison bar graph
+- Criteria-wise performance graphs
 
 All visualizations are available inside the repository.
 
